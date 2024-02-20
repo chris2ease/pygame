@@ -1,2 +1,2 @@
 # pygame
-python课程项目
+Python课程项目
